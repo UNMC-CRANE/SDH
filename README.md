@@ -22,15 +22,14 @@ The primary data source is the US Census Bureau's American Community Survey data
 1. Clone the repo
    ```
    git clone https://github.com/UNMC-CRANE/SDH.git
-
    ```
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Statistical data by census tract is located in SDH_Stats.xlsx
-2. Column descriptions are located in SDH_Columns.xlsx
+1. Statistical data by census tract is located in SDH_Stats.csv
+2. Column descriptions are located in SDH_Columns.csv
 
 
 
@@ -38,8 +37,8 @@ The primary data source is the US Census Bureau's American Community Survey data
 <!-- CONTACT -->
 ## Contact
 
-Jim Campbell, MD - campbell@unmc.edu
-Carol Geary, PhD - carolr.geary@unmc.edu
-Jerrod Anzalone, MS - alfred.anzalone@unmc.edu
-Jim Svoboda, MS - jim.svoboda@unmc.edu
+Jim Campbell, MD - campbell@unmc.edu</br>
+Carol Geary, PhD - carolr.geary@unmc.edu</br>
+Jerrod Anzalone, MS - alfred.anzalone@unmc.edu</br>
+Jim Svoboda, MS - jim.svoboda@unmc.edu</br>
 
