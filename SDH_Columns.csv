@@ -56,3 +56,8 @@
 "CRANE_7","Average Number [Number concentration] of persons occupying a single household in community where patient resides from DoC ACS data?","727851000004106"
 "CRANE_8","Travel [Time] to work of workers over 16 years who do not work at home in the community where patient resides from DoC ACS data?","727861000004108"
 "CRANE_9","[Number Fraction] of workers over 16 years whose means of transportation is car, truck or van in community where patient resides from DoC ACS data?","727871000004100"
+"RPL_THEME1","Social Vulnerability Index Socioeconomic Status theme ranking [Scale score] in community where patient resides from census data","728731000004108"
+"RPL_THEME2","Social Vulnerability Index Household composition and Disability theme percentile ranking in community where patient resides from census data","728711000004101"
+"RPL_THEME3","Social Vulnerability Index Minority Status and Language theme percentile ranking in community where patient resides from census data","728751000004100"
+"RPL_THEME4","Social Vulnerability Index Housing Type and Transportation theme percentile ranking in community where patient resides from census data","728761000004103"
+"RPL_THEMES","Social Vulnerability Index Overall percentile ranking in community where patient resides from census data","728641000004109"
